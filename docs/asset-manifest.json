@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anywhere-pharmacology/static/css/main.6180b9dc.css",
-    "main.js": "/anywhere-pharmacology/static/js/main.e88f4f6e.js",
+    "main.js": "/anywhere-pharmacology/static/js/main.0da790fa.js",
     "static/media/220702-12.JPG": "/anywhere-pharmacology/static/media/220702-12.0d3413670e5999c03a99.JPG",
     "static/media/220702-11.JPG": "/anywhere-pharmacology/static/media/220702-11.14c47e14bb5f59ad6070.JPG",
     "static/media/220613-3.JPG": "/anywhere-pharmacology/static/media/220613-3.e6fe7b9a6e43eab67c2d.JPG",
@@ -291,10 +291,10 @@
     "static/media/スクリーンショット 2022-06-21 093853.png": "/anywhere-pharmacology/static/media/スクリーンショット 2022-06-21 093853.a965de74c013861c4fcf.png",
     "index.html": "/anywhere-pharmacology/index.html",
     "main.6180b9dc.css.map": "/anywhere-pharmacology/static/css/main.6180b9dc.css.map",
-    "main.e88f4f6e.js.map": "/anywhere-pharmacology/static/js/main.e88f4f6e.js.map"
+    "main.0da790fa.js.map": "/anywhere-pharmacology/static/js/main.0da790fa.js.map"
   },
   "entrypoints": [
     "static/css/main.6180b9dc.css",
-    "static/js/main.e88f4f6e.js"
+    "static/js/main.0da790fa.js"
   ]
 }
